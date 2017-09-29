@@ -1,3 +1,3 @@
-#COGS108 Capstone Project
+# COGS108 Capstone Project
 
 View FinalProject.ipynb
